@@ -1,0 +1,139 @@
+
+.ur {
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:flex;
+	height:100%;
+	width:100%;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	background-color: #fafafa;
+	}
+.CONTAINER {
+	max-width: 800px;
+	margin: auto;
+	display: flex;
+	
+	flex-direction: column;
+	align-items: center;	
+	}
+.item {
+	display:flex;
+	margin: 5px;
+	margin-left:30px;
+	height:700px;
+	width:850px;
+	text-align: center;
+	flex-direction:row;
+	font-size: 1.5em;
+	}
+	
+.esquerda{
+	margin: 5px;
+	height:594px;
+	width:394px;
+	text-align: center;
+	font-size: 1.5em;
+	background-image: url("src/gg.gif");
+	}
+.direita{
+	margin: 5px;
+	height: 600px;
+	width: 50px;
+	text-align: center;
+	font-size: 1.5em;
+	
+	}
+.login{
+	margin-top: 20px;
+	margin-left: 10px;
+	padding-top: 36px;
+	background: white;
+	height: 375px;
+	width: 350px;
+	text-align: center;
+	font-size: 1.5em;
+	border: 1px solid #cccccc;
+	}
+.obj3{
+	padding-top: 10px;
+	margin-left: 35px;
+	margin-right: 35px;
+	font-size: 0.3em;
+	background-image: url("src/linha.png");
+	}
+.obj4{
+	padding-top: 10px;
+	font-size: 0.4em;
+	}
+.obj5{
+	padding-top: 10px;
+	font-size: 0.2em;
+	}
+.cadastrar ul{
+	margin-left: 10px;
+	margin-top: 14x;
+	text-decoration-color: #00a2f8;
+	padding-top: 20px;
+	background: white;
+	height:40px;
+	width:310px;
+	text-align: center;
+	font-size: 0.4em;
+	border: 1px solid #ccc;
+	list-style: none;
+	}
+	.cadastrar a{
+		text-decoration: none;
+		color: #00a2f8;;
+
+	}
+.obter{
+	text-align: center;
+	width: 390px;
+	margin-top: 25px;
+	font-size: 0.4em;
+	}
+.linksocial{
+	margin-left: 10px;
+	margin-top: 20px;
+	height: 60px;
+	width: 350px;
+	text-align: center;
+	font-size: 1.5em;
+	}
+.nav ul{ 
+		margin: 5px;
+		width: 1000px;
+		font-size: 0.8em; 
+		text-align: center;
+		list-style: none;
+		color: grey;
+		}
+		
+		a { 
+		text-decoration: none;
+		color: grey;
+		padding-right: 10px;
+
+		}
+.item3{
+	margin: 5px;
+	font-size: 0.8em;
+	width: 200px;
+	}
+.botao {
+	height: 30px;
+	width: 240px;
+	background-color:#b2dffc;
+	border: none;}
+	
+.inputname {
+		height: 30px;
+		width: 230px;}
+.inputpass {
+			height: 30px;
+			width: 230px;
+			margin: 0pc;}
